@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaefeixuz.losangelestorrevieja.com/sitemap.xml
